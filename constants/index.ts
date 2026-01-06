@@ -16,19 +16,19 @@ export const testimonials = [
   {
     name: "Sarah Johnson",
     role: "CEO at TechStart",
-    image: "https://avatar.iran.liara.run/public/1",
+    image: "/avatar1.jfif",
     content: "John's ability to transform our vision into reality was exceptional. His technical expertise and attention to detail made our project a huge success.",
   },
   {
     name: "Michael Chen",
     role: "CTO at InnovateLabs",
-    image: "https://avatar.iran.liara.run/public/2",
-    content: "Working with John was a game-changer for our startup. His full-stack expertise and problem-solving skills are truly remarkable.",
+    image: "/avatar2.jfif",
+    content: "Working with John was a game-changer for our startup. His full-stack expertise and problem-solving skills are truly remarkable. The best Experience.",
   },
   {
     name: "Emily Rodriguez",
     role: "Product Manager at DevCorp",
-    image: "https://avatar.iran.liara.run/public/3",
+    image: "/avatar3.jfif",
     content: "John not only delivered outstanding code but also brought innovative solutions to our challenges. His collaborative approach made him a valuable team member.",
   },
 ];
