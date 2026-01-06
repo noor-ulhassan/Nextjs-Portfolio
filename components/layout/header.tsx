@@ -80,7 +80,7 @@ const Header = () => {
             exit={{ opacity: 0, height: 0 }}
             className="md:hidden border-t"
           >
-            <nav className="container mx-auto px-4 py-4 flex flex-col gap-4">
+            <nav className="container mx-auto px-4 py-4 flex flex-col gap-4 bg-black">
               {menuItems.map((item) => (
                 <a
                   href={item.href}
