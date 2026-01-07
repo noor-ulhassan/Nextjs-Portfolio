@@ -1,8 +1,8 @@
 "use client";
-import { Card, CardAction } from '../ui/card';
+import { Card } from '../ui/card';
 import React from 'react'
 import {motion} from 'framer-motion'
-import { Quote, QuoteIcon } from 'lucide-react';
+import { QuoteIcon } from 'lucide-react';
 import { testimonials } from '@/constants';
 import Image from 'next/image';
 const Testimonials = () => {
