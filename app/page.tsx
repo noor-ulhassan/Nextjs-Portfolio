@@ -5,6 +5,8 @@ import Projects from "@/components/sections/Projects";
 import Skills from "@/components/sections/Skills";
 import Testimonials from "@/components/sections/Testimonials";
 import {motion} from 'framer-motion'
+import Contact from "@/components/sections/Contact";
+import { Footer } from "@/components/layout/footer";
 
 
 export default function Home() {
@@ -25,6 +27,9 @@ export default function Home() {
               <GithubStats username="noor-ulhassan"/>
             </motion.div>
       </section>
+      <Contact/>
+      <Footer/>
+      
     </main>
   );
 }
